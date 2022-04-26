@@ -5,6 +5,10 @@ Create a new folder using your NIM and create a file named `README.md` in the fo
 NAME <fill your name>
 NIM  <fill your student identification number>
 ```
+##answer
+
+NAME Rossa Bella Adhina
+NIM 10219086
 
 ## notes
 1. Open this file with ![](edit-file-button.png) but do not modify anything.
